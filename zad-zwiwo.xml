@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<metalink>
+    <date>2019-01-08T21:54:46.806+01:00</date>
+    <file>
+        <name>result.xml</name>
+        <size>1769</size>
+        <hash type="MD5">61991e8c64e11c9f9a8aa93c0c94a0f1</hash>
+        <url>http://zad-zwiwo.com/download/result.xml</url>
+    </file>
+    <file>
+        <name>.idea</name>
+        <size>4096</size>
+        <hash type="MD5">95b55b1e3a304f4e340394a679893575</hash>
+        <url>http://zad-zwiwo.com/download/.idea</url>
+    </file>
+    <file>
+        <name>metallink.iml</name>
+        <size>1298</size>
+        <hash type="MD5">e0d511af6a2f51a34985ec2bd89fbbda</hash>
+        <url>http://zad-zwiwo.com/download/metallink.iml</url>
+    </file>
+    <file>
+        <name>default.properties</name>
+        <size>47</size>
+        <hash type="MD5">f004f1a4c907eddb4e547892fb4cab3e</hash>
+        <url>http://zad-zwiwo.com/download/default.properties</url>
+    </file>
+    <file>
+        <name>build.xml</name>
+        <size>650</size>
+        <hash type="MD5">2cccd7bf48b7a9cc113ff564acd802a8</hash>
+        <url>http://zad-zwiwo.com/download/build.xml</url>
+    </file>
+    <file>
+        <name>pom.xml</name>
+        <size>1803</size>
+        <hash type="MD5">600376dffeb79835ede4a0b285078036</hash>
+        <url>http://zad-zwiwo.com/download/pom.xml</url>
+    </file>
+    <file>
+        <name>src</name>
+        <size>4096</size>
+        <hash type="MD5">25d902c24283ab8cfbac54dfa101ad31</hash>
+        <url>http://zad-zwiwo.com/download/src</url>
+    </file>
+    <file>
+        <name>zad-zwiwo.xml</name>
+        <size>1983</size>
+        <hash type="MD5">d943b4f41ac6ed55c3fe69195c431242</hash>
+        <url>http://zad-zwiwo.com/download/zad-zwiwo.xml</url>
+    </file>
+    <file>
+        <name>target</name>
+        <size>4096</size>
+        <hash type="MD5">42aefbae01d2dfd981f7da7d823d689e</hash>
+        <url>http://zad-zwiwo.com/download/target</url>
+    </file>
+</metalink>

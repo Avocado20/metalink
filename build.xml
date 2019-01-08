@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project basedir="." default="metalink-example" name="Metalink exercise">
+    <property file="default.properties"/>
+    <path id="build.path">
+        <pathelement location="target"/>
+        <fileset dir="target/lib">
+            <include name="**/*.jar"/>
+        </fileset>
+    </path>
+
+    <taskdef name="metalink" classname="net.galewski.Main" classpath="target/classes" classpathref="build.path"/>
+
+    <target name="metalink-example">
+        <metalink url="http://zad-zwiwo.com/download/" file="zad-zwiwo.xml">
+            <fileset dir="." />
+        </metalink>
+    </target>
+</project>
