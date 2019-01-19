@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <metalink>
-    <date>2019-01-08T21:54:46.806+01:00</date>
+    <date>2019-01-19T09:12:30.023+01:00</date>
     <file>
         <name>result.xml</name>
         <size>1769</size>
@@ -32,6 +32,12 @@
         <url>http://zad-zwiwo.com/download/build.xml</url>
     </file>
     <file>
+        <name>.git</name>
+        <size>4096</size>
+        <hash type="MD5">a53d9769108a807d7b87f335e0a16682</hash>
+        <url>http://zad-zwiwo.com/download/.git</url>
+    </file>
+    <file>
         <name>pom.xml</name>
         <size>1803</size>
         <hash type="MD5">600376dffeb79835ede4a0b285078036</hash>
@@ -45,9 +51,15 @@
     </file>
     <file>
         <name>zad-zwiwo.xml</name>
-        <size>1983</size>
+        <size>2360</size>
         <hash type="MD5">d943b4f41ac6ed55c3fe69195c431242</hash>
         <url>http://zad-zwiwo.com/download/zad-zwiwo.xml</url>
+    </file>
+    <file>
+        <name>.gitignore</name>
+        <size>26</size>
+        <hash type="MD5">a084b794bc0759e7a6b77810e01874f2</hash>
+        <url>http://zad-zwiwo.com/download/.gitignore</url>
     </file>
     <file>
         <name>target</name>
